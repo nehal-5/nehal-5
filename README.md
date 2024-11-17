@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nehal-5.github.io/Myportfolio/](https://nehal-5.github.io/Myportfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@nehalfathema.dev](https://medium.com/@nehalfathema.dev)
+- 📝 I regularly write articles on [https://medium.com/@nehal.dev1511](https://medium.com/@nehal.dev1511)
 
 - 💬 Ask me about **MERN Python Java**
 
