@@ -9,7 +9,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0fa9e6&width=500&lines=Hi+there!+I'm+Nehal;Web+Developer+%7C+UI%2FUX+Designer;Content+Writer+%7C+Graphic+Designer;Intern+%40+AlgoZenith;Cloud+Enthusiast+%7C+CP+Explorer" alt="Typing SVG">
 </a>
 
-![Profile Views](https://profile-counter.glitch.me/nehal-5/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=nehal-5&color=blue&style=flat-square)
+
 
 <!-- About Me Section -->
 ## 💼 About Me  
