@@ -1,45 +1,65 @@
-<h1 align="center">Hi 👋, I'm Nehal Fathema</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG1.5HxYz0G95cBer8M8sc2B?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" >
+<!-- 
+   Hey there, I'm Nehal!
+   Feel free to explore my README and connect with me!
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehal-5&label=Profile%20views&color=0e75b6&style=flat" alt="nehal-5" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fa9e6&height=120&section=header" alt="header"/> 
 
-<p align="left"> <a href="https://twitter.com/fathema_nehal" target="blank"><img src="https://img.shields.io/twitter/follow/fathema_nehal?logo=twitter&style=for-the-badge" alt="fathema_nehal" /></a> </p>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0fa9e6&width=500&lines=Hi+there!+I'm+Nehal;Web+Developer+%7C+UI%2FUX+Designer;Content+Writer+%7C+Graphic+Designer;Intern+%40+AlgoZenith;Cloud+Enthusiast+%7C+CP+Explorer" alt="Typing SVG">
+</a>
 
-- 🔭 I’m currently working on **Masala Mingle**
+![Profile Views](https://profile-counter.glitch.me/nehal-5/count.svg)
 
-- 🌱 I’m currently learning **React**
+<!-- About Me Section -->
+## 💼 About Me  
+🌟 **A passionate web developer and UI/UX designer**, I love creating modern, user-friendly websites and solving real-world problems through technology.  
 
-- 👨‍💻 All of my projects are available at [https://nehal-5.github.io/Myportfolio/](https://nehal-5.github.io/Myportfolio/)
+- 🌱 **Currently Learning:**  
+  - **React**, **Next.js**, **C++**, and **Data Structures & Algorithms** to build better solutions and prepare for interviews.  
 
-- 📝 I regularly write articles on [https://medium.com/@nehal.dev1511](https://medium.com/@nehal.dev1511)
+- 💻 **Experience Highlights:**
+  - **Intern** at AlgoZenith
+  - **Lead** at AlgoZenith Student Chapter. 
+  - **UI/UX Designer** at GirlScript Summer of Code.   
+  - **Technical Content Writer** for ACM Student Chapter.  
+  - **Web Designer** at GirlUp Coders.  
+---
 
-- 💬 Ask me about **MERN Python Java**
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack  
 
-- 📫 How to reach me **nehalfathema5611@gmail.com**
+### 💻 Programming & Markup:  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VGQK37UPj_uusUX89GYR_Gd-Bei6WF7L/view?usp=sharing](https://drive.google.com/file/d/1VGQK37UPj_uusUX89GYR_Gd-Bei6WF7L/view?usp=sharing)
+### 🎨 Design Tools:  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
 
-- ⚡ Fun fact **I’m obsessed with Drawing art —I could spend hours doing it without even noticing!**
+### 🌐 Frameworks & Tools:  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/nehal-fathema-the-bold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nehal-fathema-the-bold" height="30" width="40" /></a>
-<a href="https://dev.to/nehal_fathema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nehal_fathema" height="30" width="40" /></a>
-<a href="https://twitter.com/fathema_nehal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fathema_nehal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nehal-fathema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehal-fathema" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nehal_fathema_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nehal_fathema_5" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nehalfathema_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nehalfathema_dev" height="30" width="40" /></a>
-<a href="https://medium.com/@nehalfathema.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nehalfathema.dev" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/fathema_5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fathema_5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nehalfathema05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nehalfathema05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nehal_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehal_5" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nehalfathcr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nehalfathcr01" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- GitHub Stats Section -->
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehal-5&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehal-5&layout=compact&theme=radical)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehal-5&show_icons=true&locale=en&layout=compact" alt="nehal-5" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehal-5&show_icons=true&locale=en" alt="nehal-5" /></p>
+<!-- Connect with Me Section -->
+## 📬 Connect with Me  
+- 🖇️ **[LinkedIn](https://linkedin.com/in/nehal)**  
+- 🌍 **[Portfolio](https://nehal-portfolio-link.com)**  
+- ✍️ **[SochKaSafar Blog](https://create-blog-with-nextjs.vercel.app)**  
+- 🐦 **[Twitter](https://twitter.com/nehal-5)**  
+
+Feel free to explore my repositories, collaborate, or just say hi! 😊  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fa9e6&height=120&section=footer" alt="footer"/>
