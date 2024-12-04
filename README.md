@@ -30,7 +30,7 @@
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack  
 <p align="right">
-    <img src="" alt="My Tech Stack" width="600"/>
+    <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG1.5HxYz0G95cBer8M8sc2B?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" >
 </p>
 
 ### 💻 Programming & Markup:  
