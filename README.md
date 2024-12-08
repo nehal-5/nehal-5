@@ -14,10 +14,10 @@
 
 <!-- About Me Section -->
 ## 💼 About Me  
-🌟 **A passionate web developer and UI/UX designer**, I love creating modern, user-friendly websites and solving real-world problems through technology.  
+🌟 **A passionate Web Developer and UI/UX designer from India**, I love creating modern, user-friendly websites and solving real-world problems through technology.  
 
-- 🌱 **Currently Learning:**  
-  - **React**, **Next.js**, **C++**, and **Data Structures & Algorithms** to build better solutions and prepare for interviews.  
+- 🌱 **Currently:**  
+  -  **Building Projects** in **Web**
 
 - 💻 **Experience Highlights:**
   - **Intern** at AlgoZenith
