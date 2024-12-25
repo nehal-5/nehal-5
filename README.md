@@ -3,10 +3,10 @@
    Feel free to explore my README and connect with me!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fa9e6&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0fa9e6&width=500&lines=Hi+there!+I'm+Nehal;Web+Developer+%7C+UI%2FUX+Designer;Content+Writer+%7C+Graphic+Designer;Intern+%40+AlgoZenith;Cloud+Enthusiast+%7C+CP+Explorer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=e6e6fa&width=500&lines=Hi+there!+I'm+Nehal;Web+Developer+%7C+UI%2FUX+Designer;Content+Writer+%7C+Graphic+Designer;Intern+%40+AlgoZenith;Cloud+Enthusiast+%7C+CP+Explorer" alt="Typing SVG">
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nehal-5&color=blue&style=flat-square)
@@ -66,4 +66,4 @@
 
 Feel free to explore my repositories, collaborate, or just say hi! 😊  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0fa9e6&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color&height=120&section=footer" alt="footer"/>
