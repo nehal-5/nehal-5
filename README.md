@@ -30,8 +30,9 @@
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack  
 <p align="right">
-    <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIG1.5HxYz0G95cBer8M8sc2B?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" >
+    <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/62de36d4-2a30-4121-8596-a13b2116a1c4" >
 </p>
+
 
 ### 💻 Programming & Markup:  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
