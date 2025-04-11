@@ -61,8 +61,7 @@
 <!-- Connect with Me Section -->
 ## 📬 Connect with Me  
 - 🖇️ **[LinkedIn](https://linkedin.com/in/nehal-fathema)**  
-- 🌍 **[Portfolio](https://nehal-5.github.io/Myportfolio/)**  
-- ✍️ **[SochKaSafar Blog](https://sochkasafar-old.vercel.app/)**  
+- 🌍 **[Portfolio](https://nehal-5.github.io/Myportfolio/)**    
 - 🐦 **[Twitter](https://x.com/fathema_nehal)**  
 
 Feel free to explore my repositories, collaborate, or just say hi! 😊  
