@@ -62,7 +62,7 @@
 <!-- Connect with Me Section -->
 ## 📬 Connect with Me  
 - 🖇️ **[LinkedIn](https://linkedin.com/in/nehal-fathema)**  
-- 🌍 **[Portfolio](https://nehal-fathema.vercel.app)**    
+- 🌍 **[Portfolio](https://nehalfathema.vercel.app)**    
 - 🐦 **[Twitter](https://x.com/fathema_nehal)**  
 
 Feel free to explore my repositories, collaborate, or just say hi! 😊  
