@@ -68,11 +68,11 @@ Here are some of the technologies I love to work with.
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=streak&message=%F0%9F%94%B3%2012%20days&color=8A2BE2&style=for-the-badge&logo=github&logoColor=white&url=https://streak-stats.demolab.com/api%3Fuser%3Dnehal-5%26theme%3Dtokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nehal-5&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/nehal-5/nehal-5/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/nehal-5/nehal-5/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
