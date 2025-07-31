@@ -1,70 +1,99 @@
-<!-- 
-   Hey there, I'm Nehal!
-   Feel free to explore my README and connect with me!
--->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964B00&height=120&section=header" alt="header"/> 
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=964B00&width=500&lines=Hi+there!+I'm+Nehal;Web+Developer+%7C+UI%2FUX+Designer;Content+Writer+%7C+Graphic+Designer;Intern+%40+AlgoZenith;Cloud+Enthusiast+%7C+CP+Explorer" alt="Typing SVG">
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nehal-5&color=blue&style=flat-square)
-
-
-<!-- About Me Section -->
-## 💼 About Me  
-🌟 **A passionate Web Developer and UI/UX designer from India**, I love creating modern, user-friendly websites and solving real-world problems through technology.  
-
-- 🌱 **Currently:**  
-  -  **Building Projects** in **Web**
-
-- 💻 **Experience Highlights:**
-  - **Intern** at AlgoZenith
-  - **Lead** at AlgoZenith Student Chapter. 
-  - **UI/UX Designer** at GirlScript Summer of Code.   
-  - **Technical Content Writer** for ACM Student Chapter.  
-  - **Web Designer** at GirlUp Coders.  
----
-
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack  
-<p align="right">
-    <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/62de36d4-2a30-4121-8596-a13b2116a1c4" >
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=header&text=Hi,%20I'm%20Nehal!&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=8A2BE2&center=true&width=550&lines=Web+Developer+%7C+UI%2FUX+Designer;Tech+Enthusiast+%7C+Creative+Problem-Solver;Building+cool+stuff+for+the+web" alt="Typing SVG">
+  </a>
+</p>
 
-### 💻 Programming & Markup:  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-
-### 🎨 Design Tools:  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)  
-
-### 🌐 Frameworks & Tools:  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nehal-5&color=8A2BE2&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehal-5&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehal-5&layout=compact&theme=radical)  
+## 🚀 About Me
+I'm a passionate developer and designer from India, driven by the thrill of turning complex problems into beautiful, user-friendly digital experiences. I thrive at the intersection of clean code and thoughtful design.
+
+- 🔭 **I’m currently:** Building awesome projects with modern web technologies.
+- 👯 **I’m looking to collaborate on:** Open-source projects and internships related to web development and design.
+- 🤔 **Ask me about:** React, Next.js, UI/UX design principles, or anything tech-related!
+- 📫 **How to reach me:** You can find all my links below!
 
 ---
 
-<!-- Connect with Me Section -->
-## 📬 Connect with Me  
-- 🖇️ **[LinkedIn](https://linkedin.com/in/nehal-fathema)**  
-- 🌍 **[Portfolio](https://nehalfathema.vercel.app)**    
-- 🐦 **[Twitter](https://x.com/fathema_nehal)**  
+## 🛠️ My Tech Toolkit
+Here are some of the technologies I love to work with.
 
-Feel free to explore my repositories, collaborate, or just say hi! 😊  
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/user-attachments/assets/62de36d4-2a30-4121-8596-a13b2116a1c4" width="150" alt="Coding Illustration">
+    </td>
+    <td valign="top">
+      
+**Languages:**
+<p>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964B00&height=120&section=footer" alt="footer"/>
+**Frameworks & Libraries:**
+<p>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+</p>
+
+**Design & Tools:**
+<p>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+  </tr>
+</table>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nehal-5&show_icons=true&theme=tokyonight&icon_color=8A2BE2&title_color=8A2BE2&text_color=ffffff&bg_color=1A1B27" alt="Nehal's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehal-5&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&bg_color=1A1B27" alt="Top Languages" width="49%"/>
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=streak&message=%F0%9F%94%B3%2012%20days&color=8A2BE2&style=for-the-badge&logo=github&logoColor=white&url=https://streak-stats.demolab.com/api%3Fuser%3Dnehal-5%26theme%3Dtokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/nehal-5/nehal-5/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
+
+---
+
+## 📫 Let's Connect!
+Feel free to reach out, collaborate, or just say hi! 😊
+
+<p align="center">
+  <a href="https://linkedin.com/in/nehal-fathema" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://x.com/fathema_nehal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  &nbsp;
+  <a href="https://nehalfathema.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=world&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" alt="Footer"/>
+</p>
