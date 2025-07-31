@@ -67,13 +67,16 @@ Here are some of the technologies I love to work with.
 </p>
 
 ### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nehal-5&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nehal-5/nehal-5/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+  <!-- Streak card (official, works out of the box) -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=nehal-5&theme=tokyonight)
+
+  <!-- Contribution snake: raw link (must match the actual file name & branch) -->
+  ![Contribution Snake](https://raw.githubusercontent.com/nehal-5/nehal-5/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 ---
 
