@@ -66,18 +66,6 @@ Here are some of the technologies I love to work with.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehal-5&layout=compact&theme=tokyonight&title_color=8A2BE2&text_color=ffffff&bg_color=1A1B27" alt="Top Languages" width="49%"/>
 </p>
 
-### 🔥 GitHub Streak
-<div align="center">
-
-  <!-- Streak card (official, works out of the box) -->
-  ![GitHub Streak](https://streak-stats.demolab.com?user=nehal-5&theme=tokyonight)
-
-  <!-- Contribution snake: raw link (must match the actual file name & branch) -->
-  ![Contribution Snake](https://raw.githubusercontent.com/nehal-5/nehal-5/output/github-contribution-grid-snake.svg)
-
-</div>
-
-
 ---
 
 ## 📫 Let's Connect!
